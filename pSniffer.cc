@@ -1,4 +1,4 @@
-// Tin based pSniffer
+// Tin based pSniffer (libtin)
 #include <iostream>
 #include<tins/tins.h>
 using namespace std;
